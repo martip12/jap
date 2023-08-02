@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1 , h2{
+    background-color:#254485;
+    box-shadow: 2px 2px 2px black
+}
+a{
+    box-shadow: 5px 5px 5px black;
+    color: #FFFFFF;
+    
+    background-color: #101645;
+}
+img{
+    border: 5px solid 254485;
+    border-radius: 10%;
+}
+.intro{
+    padding: 0px 400px ;
+    color: #FFFFFF;
+}
+body {
+    background-image: url("programacion-en-Chile.jpg");
+}

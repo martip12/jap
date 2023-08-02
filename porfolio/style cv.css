@@ -1,0 +1,25 @@
+table *{
+    text-align: left;
+}
+*{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-image: url(fondocv.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+table{  
+   margin: auto;
+}
+.nav{
+    list-style: none;
+}
+.hab{
+    list-style: none;
+}
+#perf{
+    list-style: none;
+}

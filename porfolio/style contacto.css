@@ -1,0 +1,14 @@
+body {
+    background-image: url(fondocontacto.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.texto {
+    color: aliceblue;
+}
+
+#Contactar {
+    color: aqua;
+}
